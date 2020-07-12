@@ -8,6 +8,7 @@ async function getQuote() {
     const data = await response.json();
     console.log(data);
   } catch (error) {
+    getQuote();
     console.log('whoops, no quote', error)
   }
 }
