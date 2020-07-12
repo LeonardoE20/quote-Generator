@@ -25,10 +25,8 @@ async function getQuote() {
       quoteText.classList.remove('long-quote');
     }
     quoteText.innerText = data.quoteText;
-    console.log(data);
   } catch (error) {
     getQuote();
-    console.log('wnoops, no quote', error);
   }
 }
 
