@@ -1,7 +1,7 @@
 # quote-Generator
 Generate a new quote with a click of a button while clicking the twitter button and tweet with ease (no copy and pasting required).
 # Live Version
-you can use my project [here](https://leonardoe20.github.io/quote-Generator/)
+you can visit and use my project by clicking [here](https://leonardoe20.github.io/quote-Generator/)
 # Story
 When I was a kid my mom would always wake up early to cook for my dad and I in the morning to start her day. She would then go to work, but one day she just felt very unmotivated. So now. as I got older and have the skills to create whatever I want I thought of this moment and wanted to create something that can help her get motivated in the morning when she is not feeling it. There are quotes online where she can find and help her through her day but what better way to find out her son created something similar that she can use. It would be more meaningful.
 ## Instructions
