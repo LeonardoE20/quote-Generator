@@ -9,8 +9,4 @@ When you are in the webpage of the project all you need to do is click on the ne
 ## Tools I used
 - Background created from [Loading io](https://loading.io/)
 - Icons used from [font awesome](https://fontawesome.com/)
-<<<<<<< HEAD
 - API used from [Random Quote API](https://forismatic.com/en/api/)
-=======
-- API used from [Random Quote API](https://forismatic.com/en/api/)
->>>>>>> bce4fd406e6ff8d9fbb2b93d3d257523894006ff
