@@ -71,11 +71,16 @@ button {
   box-shadow: 0 0.3rem rgba(121, 121, 121, 0.65);
 }
 
-button:hover {
-  filter: brightness(120%);
+.fa-quote-left, .fa-quote-right{
+  color: deepskyblue;
 }
 
-button:active {
+button#new-quote:hover {
+  /* filter: brightness(120%); */
+  color: deepskyblue;
+}
+
+button#new-quote:active {
   transform: translate(0, 0.3rem);
   box-shadow: 0 0.1rem rgba(121, 121, 121, 0.65);
 }
